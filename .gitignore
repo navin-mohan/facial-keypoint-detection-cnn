@@ -1,5 +1,6 @@
-dataset/train/
-dataset/test/
+dataset/train.csv
+dataset/test.csv
+dataset/IdLookupTable.csv
 *.pyc
 __pycache__/
 
