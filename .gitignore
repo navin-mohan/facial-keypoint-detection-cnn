@@ -1,6 +1,7 @@
-dataset/train.csv
-dataset/test.csv
-dataset/IdLookupTable.csv
+dataset/*.csv
+#dataset/test.csv
+#dataset/IdLookupTable.csv
+dataset/train/*
 *.pyc
 __pycache__/
-
+.ipynb_checkpoints/
